@@ -1,0 +1,18 @@
+UnitID,Unit,UQCCode,UQCName
+1,bdl,BDL,Bundles
+2,ctn,CTN,Cartons
+3,ccm,CCM,Cubic centimeters
+4,cbm,CBM,Cubic meters
+5,cm,CMS,Centimeters
+6,kg,KGS,Kilograms
+7,m,MTR,Meters
+8,nos,NOS,Numbers
+9,pcs,PCS,Pieces
+10,prs,PRS,Pairs
+11,ltr,LTR,Liters
+12,ml,MLT,Milli Liter
+13,In,INC,Inches
+14,g,GMS,Grams
+15,fts,FTS,Feet
+16,rol,ROL,Rolls
+17,sht,SHT,Sheets
